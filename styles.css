@@ -1,0 +1,96 @@
+body{
+    background-image: url(https://plus.unsplash.com/premium_photo-1661313728404-60e075b0d828?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+   background-size: cover;
+    font-family: sans-serif;
+    padding: 20px;
+}
+h1{
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+h2{
+    font-size: 30px;
+}
+
+.established{
+    font-style: italic;
+}
+
+h1,h2,p{
+    text-align: center;
+}
+
+h1,h2{
+    font-family: Imapact,serif;
+}
+
+.menu{
+    width: 80%;
+    background-color: rgba(221, 31, 142, 0.925);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+img {
+    height: 32px;
+    width: 32px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -25px;
+}
+
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.flavor, .milkshakes{
+    text-align: left;
+    width: 75%;
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+hr {
+    height: 2px;
+    background-color: rgb(187, 255, 0);
+    border-color:  rgb(187, 255, 0);
+}
+
+.bottom-line {
+    margin-top: 25px;
+}
+
+/* FOOTER */
+
+footer {
+    font-size: 14px;
+}
+
+.address {
+    margin-bottom: 5px;
+}
+
+a,a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: rgb(187, 255, 0);
+}
+a:active{
+    color: black;
+}
+
+
+
